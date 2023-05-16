@@ -1,0 +1,45 @@
+body {
+    background: url("img/pasta.jpg");
+}
+
+#contenedor {
+    width: 960px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 25px;
+    height: 100%;
+}
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-family: 'Pacifico', cursive;
+}
+
+#header ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#header ul li a {
+    text-decoration: none;
+    background-color: #AE3838;
+    padding: 15px;
+    color: #ffffff;
+}
+
+#header ul li a:hover {
+    background-color: #95393A;
+    text-decoration: underline;
+}
+
+#video {
+    padding: 50px 0;
+    text-align: center;
+}
+
+
+
+
